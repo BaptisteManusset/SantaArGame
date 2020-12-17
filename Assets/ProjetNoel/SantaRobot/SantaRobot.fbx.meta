@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: da0c50ed2d31f684abc9deb4b362788d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SantaRobot_Arms
+    100004: SantaRobot_Body
+    100006: SantaRobot_Gun
+    100008: SantaRobot_Head
+    100010: SantaRobot_LEye
+    100012: SantaRobot_LLeg
+    100014: SantaRobot_REye
+    100016: SantaRobot_RLeg
+    400000: //RootNode
+    400002: SantaRobot_Arms
+    400004: SantaRobot_Body
+    400006: SantaRobot_Gun
+    400008: SantaRobot_Head
+    400010: SantaRobot_LEye
+    400012: SantaRobot_LLeg
+    400014: SantaRobot_REye
+    400016: SantaRobot_RLeg
+    2100000: No Name
+    2300000: SantaRobot_Arms
+    2300002: SantaRobot_Body
+    2300004: SantaRobot_Gun
+    2300006: SantaRobot_Head
+    2300008: SantaRobot_LEye
+    2300010: SantaRobot_LLeg
+    2300012: SantaRobot_REye
+    2300014: SantaRobot_RLeg
+    3300000: SantaRobot_Arms
+    3300002: SantaRobot_Body
+    3300004: SantaRobot_Gun
+    3300006: SantaRobot_Head
+    3300008: SantaRobot_LEye
+    3300010: SantaRobot_LLeg
+    3300012: SantaRobot_REye
+    3300014: SantaRobot_RLeg
+    4300000: SantaRobot_Body
+    4300002: SantaRobot_Head
+    4300004: SantaRobot_LEye
+    4300006: SantaRobot_REye
+    4300008: SantaRobot_RLeg
+    4300010: SantaRobot_LLeg
+    4300012: SantaRobot_Arms
+    4300014: SantaRobot_Gun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
